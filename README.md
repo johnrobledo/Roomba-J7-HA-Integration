@@ -16,7 +16,7 @@ It should open up a new terminal, in which you should run "py password.py userna
 If any errors pop up about missing dependencies, run "py -m pip install requests" and rerun the last line of code.
 
 You should then get an output similar to:
-if it works and you get the output, the output should look like this:
+
 py password.py my_email my_password
 2022-02-05 14:54:31 INFO [Roomba.Password] Using Password version 2.1
 2022-02-05 14:54:31 INFO [Roomba.Password] reading/writing info from config file ./config.ini
