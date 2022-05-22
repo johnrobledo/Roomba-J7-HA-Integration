@@ -73,4 +73,6 @@ Copy the password, excluding quotes, and go to Home assistant.
 Begin the integration of a new roomba, in which it should ask for you to hold down the home button.
 Click manual password and input the password.
 
+If it asks for a host, find the IP adress your Roomba is on in your network page.
+
 Contact me on reddit at u/xX500_IQXx if you have a problem.
